@@ -1,0 +1,6 @@
+{
+  "name": "Gestor de Rooming List & Portal LGPD",
+  "description": "Plataforma de gestão de rooming lists para hotéis e agências com foco em acessibilidade, correspondência de quartos e conformidade com a LGPD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
